@@ -1,0 +1,19 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product img {
+    margin-right: 20px;
+}
+.main-button {
+    border: none;
+    border-radius: 5px;
+    padding: 7px 14px;
+    background-color: coral;
+    color: white;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.main-button:hover {
+    background-color: gray;
+}
